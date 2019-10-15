@@ -20,4 +20,4 @@ This week we have 5 problems related to the lesson that are worth **30 points in
  
  In addition, we have a final applied problem with minimal instructions. You can gain extra **10 points** if you complete this task. 
  
- - [FINAL TASK (optional, 10 extra points)](geo-python-final-problem.ipynb)
+ - [FINAL TASK: all time high and low temperatures (optional, 10 extra points)](geo-python-final-problem.ipynb)
