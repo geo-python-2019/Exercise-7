@@ -9,7 +9,7 @@ Check out [the hints for this week's exercise](https://geo-python.github.io/site
 - **Exercise 7 problems 1-5 are due by 4 pm on Monday 28 October 2019**
 
 
-## Problems 1-5 + FINAL PROBLEM
+## Problems 1-5 + extra problems
 
 This week we have 5 problems related to the lesson that are worth **30 points in total**. There is also an additional problem 6 for creating a GIF animation :) 
 
